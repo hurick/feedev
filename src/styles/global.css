@@ -1,0 +1,59 @@
+:root {
+  /** Color palette **/
+  --white: #fff;
+  --black: #000;
+
+  --gray-100: #e1e1e6;
+  --gray-300: #c4c4cc;
+  --gray-400: #8d8d99;
+  --gray-600: #7c7c84;
+  --gray-700: #323238;
+  --gray-800: #202024;
+  --gray-900: #121214;
+
+  --green-300: #00B37E;
+  --green-500: #00875f;
+
+  --red-500: #f75a68;
+
+  /** Typography **/
+  --font: 'Roboto', sans-serif;
+  
+  --regular: 400;
+  --bold: 700;
+
+  --fsz-small: .75rem;
+  --fsz-medium: .875rem;
+  --fsz-default: 1rem;
+
+  --lh-medium: 1.4rem;
+  --lh-large: 1.6rem;
+}
+
+:focus {
+  outline: transparent;
+  box-shadow: 0 0 0 2px var(--green-500);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--gray-900);
+
+  -webkit-font-smoothing: antialiased;
+  color: var(--white);
+}
+
+body, input, textarea, button {
+  font-size: var(--fsz-default);
+  font-weight: var(--regular);
+  font-family: var(--font);
+}
+
+img { max-width: 100%; }
+
+button { cursor: pointer; }

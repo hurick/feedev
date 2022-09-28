@@ -1,0 +1,55 @@
+.sidebar {
+  background-color: var(--gray-800);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.s__cover {
+  width: 100%;
+  max-height: 4.5rem;
+  object-fit: cover;
+}
+
+.s__profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin: calc(0px - 1.875rem - 3px) 0 1.5rem;
+
+  line-height: var(--lh-large);
+}
+
+.s__footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 1.5rem 2rem 2rem;
+  border-top: 1px solid var(--gray-700);
+}
+
+.sf__edit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: .5rem;
+
+  padding: 1rem 1.5rem;
+  border: 1px solid var(--green-300);
+  border-radius: 8px;
+
+  color: var(--green-300);
+  font-weight: var(--bold);
+  text-decoration: none;
+
+  transition-property: background-color, color;
+  transition-timing-function: ease-in-out;
+  transition-duration: .2s;
+}
+
+.sf__edit:hover {
+  color: var(--white);
+  background-color: var(--green-300);
+}
