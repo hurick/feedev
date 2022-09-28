@@ -1,12 +1,12 @@
 # Feed
 
 <p align="center">
-  <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#to-do">To-do</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#extras">Extras</a>
+  <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-to-do">To-do</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-extras">Extras</a>
 </p>
 
 ![cover](https://user-images.githubusercontent.com/14249327/192898842-f69ee9a8-81a1-4d6a-8d93-cc1223602388.png)
