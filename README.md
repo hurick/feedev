@@ -15,7 +15,7 @@
 
 To be really honest, you can call this project an ideia. It's a simple Frontend development of something that could be turned into a real feed, beign it social, news, a journal or anything you would like a timeline style.
 
-You can see more and interact with the project <a href="https://feedproject.vercel.app" title="Access Feed project website">clicking here</a>.
+You can see more and interact with the project by <a href="https://feedproject.vercel.app" title="Access Feed project website">clicking here</a>.
 
 ## ✅ To-do
 
