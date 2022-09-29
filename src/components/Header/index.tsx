@@ -7,7 +7,7 @@ export const Header = () => {
   return (
     <header className={header}>
       <img className={h__image} src={logoIgnite} alt="Ignite Logo" />
-      <h1 className={h__title}>Feed</h1>
+      <h1 className={h__title}>Feedev</h1>
     </header>
   )
 }
