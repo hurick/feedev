@@ -1,4 +1,4 @@
-# Feed
+# Feedev
 
 <p align="center">
   <a href="#-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 
 To be really honest, you can call this project an ideia. It's a simple Frontend development of something that could be turned into a real feed, beign it social, news, a journal or anything you would like a timeline style.
 
-You can see more and interact with the project by <a href="https://feedproject.vercel.app" title="Access Feed project website">clicking here</a>.
+You can see more and interact with the project by <a href="https://feedev.vercel.app" title="Access Feedev project website">clicking here</a>.
 
 ## ✅ To-do
 
@@ -38,13 +38,13 @@ There are still some things that I should implement as soon as I am avaiable, li
 Right, umm... so, to get started you probably need to clone the project, right? If you are using SSH, try this command:
 
 ```bash
-git clone git@github.com:hurick/feed.git
+git clone git@github.com:hurick/feedev.git
 ```
 
 If you are using HTTPS, then try this one. It should work, I think:
 
 ```bash
-git clone https://github.com/hurick/feed.git
+git clone https://github.com/hurick/feedev.git
 ```
 
 Okay, so, now that you got the project on your machine, go to its root folder and run:
@@ -89,7 +89,7 @@ If you want to add new posts (or delete the existing ones), first of all go to `
     },
     content: [
       { type: 'paragraph', content: "Hello, everyone! 👋" },
-      { type: 'anchor', url: "/", content: "hurick.dev/feed", alt: 'My project website' },
+      { type: 'anchor', url: "/", content: "hurick.dev/feedev", alt: 'My project website' },
     ],
     publishedAt: new Date('2022-09-25 15:00:00')
   }
@@ -99,7 +99,7 @@ If you want to add new posts (or delete the existing ones), first of all go to `
 ## 📃 License
 
 This project is under MIT license.  
-Read more about it <a target="_blank" href="https://github.com/hurick/feed/blob/main/LICENSE" title="MIT License file">here</a>.
+Read more about it <a target="_blank" href="https://github.com/hurick/feedev/blob/main/LICENSE" title="MIT License file">here</a>.
 
 ## ✨ Extras
 
