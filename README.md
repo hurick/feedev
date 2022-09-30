@@ -13,7 +13,7 @@
 
 ## 🤔 About
 
-To be really honest, you can call this project an ideia. It's a simple Frontend development of something that could be turned into a real feed, beign it social, news, a journal or anything you would like a timeline style.
+To be really honest, you can call this project an idea. It's a simple Frontend development of something that could be turned into a real feed, beign it social, news, a journal or anything you would like a timeline style.
 
 You can see more and interact with the project by <a href="https://feedev.vercel.app" title="Access Feedev project website">clicking here</a>.
 
